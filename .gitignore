@@ -1,4 +1,4 @@
 /target/
-./Cargo.lock
-./solana-dev-wallet.json
-./wallet.json
+Cargo.lock
+solana-dev-wallet.json
+wallet.json
